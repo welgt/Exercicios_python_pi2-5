@@ -1,0 +1,2 @@
+Vamos contar quantos caracteres tem neste arquivo
+mesmo pulando linha e tendo espaço entre as palavras

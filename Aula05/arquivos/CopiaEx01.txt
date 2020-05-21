@@ -1,0 +1,4 @@
+Vamos copiar este texto para o outro arquivo
+tambem vamos ignorar as linhas que estao com
+o caracter '#'
+aqui pode copiar

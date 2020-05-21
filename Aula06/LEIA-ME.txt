@@ -1,0 +1,4 @@
+A pasta "Ex_Aula06_WellingtonMaciel" deve ser colocada como um pacote python dentro de um projeto
+para que o programa funcione.
+
+

@@ -1,0 +1,9 @@
+Fazendo e apreciando a arte
+Faça a análise o episódio SPAM do Monty Python.
+E disserte sobre como problemas cotidianos podem
+ser transferidos para o mundo virtual, como no caso
+do SPAM.
+
+Como podemo perceber que a palavra SPAM  surge muitas vezes no epsodio e chega a ser irritante, com isso surgiu os spam's dos emails
+por exemplo. observo que isso é uma coisa repetitiva e tudo que for dessa forma podemos aproveitar para criar softwares e IA's que façam
+essas tarefas de forma automatizadas.
